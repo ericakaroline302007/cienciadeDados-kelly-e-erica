@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 :root {
-    --bg-color: EE81B3;
-    --primary-color: E6739F;
-    --secondary-color: CC0E74;
+    --bg-color: FFBEE3;
+    --primary-color: 26001B;
+    --secondary-color: FC5BB6;
     --font: “dancing script”, sans-serif;
 }
 body {
