@@ -3,7 +3,7 @@
     --bg-color: #222831;
     --primary-color: #DDDDDD;
     --secondary-color: #6c0fbd;
-    --font: ““Nunito Sans”, sans-serif;
+    --font: “dancing script”, sans-serif;
 }
 body {
     background-color: var(--bg-color);
