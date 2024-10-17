@@ -74,3 +74,8 @@ footer {
     padding: 2rem;
     border: var(--secundary-color) solid 2px;
 }
+
+span {
+    font-weight: bold;
+    color: var(--secundary-color)
+}
