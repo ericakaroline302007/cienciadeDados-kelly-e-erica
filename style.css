@@ -67,3 +67,10 @@ footer {
 .graficos-container{
     margin: 5rem;
 }
+
+.graficos-container__texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secundary-color) solid 2px;
+}
